@@ -1,4 +1,4 @@
-# Markdown Text 101
+# Markdown Text Styles
 
 Want to inject some flavor into your everyday text chat? You're in luck! Discord uses Markdown, a simple plain text formatting system that'll help you **make your sentences stand out**. Here's how to do it! Just add a few characters before & after your desired text to change your text! I'll show you some examples...
 
@@ -128,5 +128,5 @@ xml
 
 ![xml](https://i.imgur.com/4cCrGr4.png)
 
-And you get the idea! Now you're a **Discord text markdown expert**. Get out there and highlight your statements!
+Thats all.
 
